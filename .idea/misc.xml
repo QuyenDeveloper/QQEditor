@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/drawable/ic_confirm_background.xml" value="0.1755" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/drawable/ic_confirm_foreground.xml" value="0.1755" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/drawable/roundstyle.xml" value="0.1755" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/activity_cut_fragment.xml" value="0.2223731884057971" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/activity_trim_fragment.xml" value="0.2223731884057971" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/fragment_crop.xml" value="0.25" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/fragment_cut.xml" value="0.25" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/fragment_music.xml" value="0.25" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/layout/fragment_sticker.xml" value="0.25" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/mipmap-anydpi-v26/ic_confirm.xml" value="0.1" />
+        <entry key="..\:/SC/Nam2/Ki2/DACS/QQEditor/app/src/main/res/mipmap-anydpi-v26/ic_confirm_round.xml" value="0.1" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2555" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/layout/fragment_crop.xml" value="0.1" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/layout/fragment_cut.xml" value="0.264" />
+        <entry key="..\:/Studie/Nam2/LapTrinhDiDong/QQEditor-master/app/src/main/res/layout/fragment_music.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
